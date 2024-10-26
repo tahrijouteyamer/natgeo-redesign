@@ -1,0 +1,3 @@
+# natgeo-redesign
+A personal project to redesign the National Geographic website, focusing on enhancing user experience, responsiveness, and visual storytelling through modern web technologies.
+Currently working on the project...
