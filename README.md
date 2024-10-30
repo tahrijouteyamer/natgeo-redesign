@@ -8,3 +8,4 @@ Added Pictures
 Added Smooth Scroll
 Added New features, working continuously on the page
 Fixing parallax on homepage.
+Added NatGeo videos
