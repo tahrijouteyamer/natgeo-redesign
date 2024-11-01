@@ -9,3 +9,7 @@
     background: black;
     overflow: hidden;
   }
+
+    a {
+        text-decoration: none;
+    }
