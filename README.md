@@ -5,3 +5,4 @@ Updating interface.
 Homepage done.
 Adding designs pictures..
 Parallax bugging
+Video channels
