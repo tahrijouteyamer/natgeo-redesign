@@ -5,4 +5,5 @@ Updating interface.
 Homepage done.
 Adding designs pictures..
 Parallax bugging
-Video channels
+Video channel
+Adding Natgeo videos
