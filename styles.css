@@ -67,3 +67,8 @@
       z-index: 2;
       width: 100%;
     }
+
+    .c-header__logo {
+      display: flex;
+      align-items: center;
+    }
