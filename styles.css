@@ -86,3 +86,7 @@
     .c-navigation {
       flex-basis: 70%;
     }
+
+    .c-navigation__list {
+      padding-right: 0;
+    }
