@@ -110,3 +110,7 @@
       display: inline-block;
       right: -2rem;
     }
+
+    .c-navigation__list-item:last-of-type:after {
+      background: transparent;
+    }
