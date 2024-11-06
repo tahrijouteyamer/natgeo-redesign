@@ -146,3 +146,10 @@
       text-transform: uppercase;
       margin-right: 1rem;
     }
+
+    .c-cta__button {
+      border: 0;
+      background-color: transparent;
+      display: inline-block;
+    }
+    
