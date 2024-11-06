@@ -56,3 +56,14 @@
       width: 366px;
       height: 183px;
     }
+
+    .c-header {
+      display: flex;
+      align-items: center;
+      padding: 2rem;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 2;
+      width: 100%;
+    }
