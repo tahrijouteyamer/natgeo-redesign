@@ -138,3 +138,11 @@
       align-items: center;
       margin-left: 7rem;
     }
+
+    .c-cta > a {
+      font-size: 0.9em;
+      opacity: 0.7;
+      font-weight: 500;
+      text-transform: uppercase;
+      margin-right: 1rem;
+    }
