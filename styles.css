@@ -100,3 +100,13 @@
       opacity: 0.7;
       font-weight: 500;
     }
+
+    .c-navigation__list-item:after {
+      content: "";
+      width: 2.5px;
+      height: 100%;
+      background: white;
+      position: absolute;
+      display: inline-block;
+      right: -2rem;
+    }
