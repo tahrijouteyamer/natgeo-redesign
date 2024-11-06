@@ -132,3 +132,9 @@
       bottom: -0.4rem;
       left: 0;
     }
+
+    .c-cta {
+      display: flex;
+      align-items: center;
+      margin-left: 7rem;
+    }
