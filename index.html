@@ -6,39 +6,39 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,400,500|Roboto:400,500,700&display=swap" rel="stylesheet">
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.css'><link rel="stylesheet" href="./style.css">
-<link rel="icon" href="assets/favicon.ico" sizes="any">
-<link rel="icon" href="assets/favicon-32x32.png" type="image/png" sizes="32x32">
-<link rel="icon" href="assets/favicon-16x16.png" type="image/png" sizes="16x16">
+<link rel="icon" href="assets/favicon.ico" sizes="any"> <!-- For all devices -->
+<link rel="icon" href="assets/favicon-32x32.png" type="image/png" sizes="32x32"> <!-- For desktop -->
+<link rel="icon" href="assets/favicon-16x16.png" type="image/png" sizes="16x16"> <!-- For mobile -->
 </head>
 
 <body>
-    <div id="loading">
-        <img src="./assets/NatGeo_loading.gif" alt="Loading">
-    </div>
-
+<div id="loading">
+  <img src="./assets/NatGeo_loading.gif" alt="Loading">
+</div>
+<div class="cursor cursor--large"></div>
+<div class="cursor cursor--small"></div>
 <header class='c-header'>
-<div class='c-header__logo'>
-    <a href="index.html"><img src='assets/NatGeo.png' alt='Logo' class='c-header__logo-image' /></a>
-</div>
-<nav class='c-navigation'>
+  <div class='c-header__logo'>
+    <a href="index.html"><img src='assets/natgeo-logo.svg' alt='Logo' class='c-header__logo-image' /></a>
+  </div>
+  <nav class='c-navigation'>
     <ul class='c-navigation__list'>
-    <li class='c-navigation__list-item c-navigation__list-item--active'><a href='#' title=''>Latest Articles</a></li>
-    <li class='c-navigation__list-item'><a href='#' title=''>Photos of the day</a></li>
-    <li class='c-navigation__list-item'><a href='#' title=''>Video Channel</a></li>
+      <li class='c-navigation__list-item c-navigation__list-item--active'><a href='#'>Topics</a></li>
+      <li class='c-navigation__list-item'><a href='https://www.youtube.com/@NatGeo' target="_blank">Video Channel</a></li>
     </ul>
-</nav>
-<div class='c-cta'>
-    <a href='' title=''>Login</a>
-    <a href='' title=''>Subscribe</a>
+  </nav>
+  <div class='c-cta'>
+    <a href='#' title=''>Login</a>
+    <a href='https://www.nationalgeographic.com/subscribe' target="_blank" title='Subscribe'>Subscribe</a>
+    <div style="color: white; margin-left: 30px; margin-right: 20px;">|</div>
     <button class='c-cta__button c-cta__button__search'>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56.966 56.966">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56.966 56.966">
         <path d="M55.146 51.887L41.588 37.786c3.486-4.144 5.396-9.358 5.396-14.786 0-12.682-10.318-23-23-23s-23 10.318-23 23 10.318 23 23 23c4.761 0 9.298-1.436 13.177-4.162l13.661 14.208c.571.593 1.339.92 2.162.92.779 0 1.518-.297 2.079-.837 1.192-1.147 1.23-3.049.083-4.242zM23.984 6c9.374 0 17 7.626 17 17s-7.626 17-17 17-17-7.626-17-17 7.626-17 17-17z"/>
-    </svg>
+      </svg>
     </button>
-    <button class='c-cta__button c-cta__button__menu'></button>
-</div>
+    <button href="#" class='c-cta__button c-cta__button__menu'></button>
+  </div>
 </header>
-
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
 <script src='https://rawgit.com/cfoehrdes/slick/master/slick/slick.js'></script>
