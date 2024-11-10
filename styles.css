@@ -279,3 +279,16 @@ h2 {
   transform: translateY(-150px);
   transition: 0.8s ease;
 }
+
+.c-wrap {
+  padding: 2rem 0;
+  overflow: hidden;
+}
+
+.c-wrap--small {
+  max-width: 30%;
+}
+
+.c-wrap--line {
+  position: relative;
+}
