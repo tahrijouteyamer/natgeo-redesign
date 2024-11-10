@@ -256,3 +256,9 @@ h2 {
   position: relative;
   transition: 0.8s ease;
 }
+
+
+.c-slide__title--medium {
+  font-size: 1.6em;
+  line-height: 100px;
+}
