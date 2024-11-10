@@ -22,9 +22,8 @@ This project also demonstrates skills in **responsive design**, **accessibility 
 
 ## Features
 
-- **Responsive Layout**: Mobile-first design that adapts seamlessly across devices and screen sizes.
 - **Enhanced Navigation**: Simplified and intuitive navigation for improved user experience.
-- **Visual Content Focus**: Large, immersive images and video sections inspired by National Geographic’s visual storytelling.
+- **Visual Content Focus**: Large, immersive images inspired by National Geographic’s visual storytelling.
 - **Accessibility**: Built with accessible elements, color contrast, and screen reader-friendly markup.
 - **Smooth Animations**: Subtle animations powered by GSAP and other libraries for a modern look and feel.
 - **Interactive Image & Content Sliders**: Custom sliders using Slick and Swiper for interactive and dynamic content.
