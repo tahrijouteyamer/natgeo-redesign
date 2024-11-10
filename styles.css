@@ -243,3 +243,16 @@ h2 {
   transition: 0.8s ease;
   will-change: opacity, transform;
 }
+
+
+.c-slide__title--large,
+.c-slide__title--medium {
+  display: block;
+  font-size: 2.5em;
+  line-height: 110px;
+  transform: translateY(150px);
+  will-change: transform;
+  transition-delay: 0.4s;
+  position: relative;
+  transition: 0.8s ease;
+}
