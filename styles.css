@@ -306,3 +306,7 @@ h2 {
   transition-delay: 0.4s;
 }
 
+.slick-list {
+  overflow: visible !important;
+}
+
