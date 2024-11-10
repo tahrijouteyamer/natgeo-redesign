@@ -323,3 +323,11 @@ h2 {
   transform: translateY(0);
   opacity: 1;
 }
+
+.animateIn .c-wrap--line:after,
+.initialAnimation .c-wrap--line:after {
+  left: 0;
+  transform: translateX(0);
+  width: 100%;
+}
+
