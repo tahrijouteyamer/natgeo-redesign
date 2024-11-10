@@ -262,3 +262,10 @@ h2 {
   font-size: 1.6em;
   line-height: 100px;
 }
+
+
+.c-slide__subtitle {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
