@@ -331,3 +331,7 @@ h2 {
   width: 100%;
 }
 
+.slick-list {
+  transition: 1s ease;
+}
+
