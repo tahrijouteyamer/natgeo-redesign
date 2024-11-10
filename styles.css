@@ -221,3 +221,25 @@ h2 {
   will-change: background-size;
   position: relative;
 }
+
+.c-slide.active {
+  display: block; /* Show the active slide */
+}
+
+.c-slide-content {
+  padding: 4rem;
+  margin: 0 auto;
+  width: 100%;
+  z-index: 2;
+  max-width: 1200px;
+}
+
+.c-slide__title {
+  font-size: 4em;
+  text-transform: uppercase;
+  letter-spacing: 20px;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: 0.8s ease;
+  will-change: opacity, transform;
+}
