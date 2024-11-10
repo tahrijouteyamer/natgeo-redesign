@@ -269,3 +269,9 @@ h2 {
   letter-spacing: 3px;
 }
 
+.c-slide__body {
+  margin-top: 0.7rem;
+  opacity: 0;
+  line-height: 25px;
+}
+
