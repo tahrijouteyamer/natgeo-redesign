@@ -310,3 +310,16 @@ h2 {
   overflow: visible !important;
 }
 
+.animateIn .c-slide__title--large,
+.animateIn .c-slide__title--medium,
+.animateIn .c-slide__info,
+.animateIn .c-slide__title,
+.animateIn .c-slide__body,
+.initialAnimation .c-slide__title--large,
+.initialAnimation .c-slide__title--medium,
+.initialAnimation .c-slide__info,
+.initialAnimation .c-slide__title,
+.initialAnimation .c-slide__body {
+  transform: translateY(0);
+  opacity: 1;
+}
