@@ -275,3 +275,7 @@ h2 {
   line-height: 25px;
 }
 
+.c-slide__info {
+  transform: translateY(-150px);
+  transition: 0.8s ease;
+}
